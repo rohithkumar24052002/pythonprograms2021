@@ -1,0 +1,3 @@
+
+        speak = Speaking()
+        dic = PyDictionary()
